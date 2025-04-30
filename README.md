@@ -22,7 +22,7 @@ The AI-Powered CV Generator is a web application built using Flask and integrate
 
 ### 1. Clone the repository
 
-git clone https://github.com/your-username/cv-generator.git
+git clone https://github.com/Qaswa-Chaudhary/CV-Generatortor.git
 cd cv-generator
 
 ### 2. Install dependencies
